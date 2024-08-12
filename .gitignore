@@ -1,0 +1,13 @@
+node_modules/
+venv/
+.pylintrc
+pycache/
+
+**/.env
+.env
+/ngrok
+
+/bot/venv
+.vscode
+
+db.sqlite3
